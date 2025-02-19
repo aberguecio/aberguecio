@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Agustin Berguecio
+### 👋 Hi, I'm Agustín Berguecio
 
 I'm a full-stack developer passionate about automation, self-hosting, and IoT. I enjoy optimizing systems and building smart solutions.
 
